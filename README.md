@@ -1,7 +1,7 @@
 ![Netflix clone](netflix-clone.gif)
 
 # Netflix Clone
-Projeto feito estudando na [DIO](https://www.dio.me/), utilizando HTML, CSS e Javascript com lib jQuery contendo o plugin Owl Carousel.
+Projeto feito enquanto estudava na [DIO](https://www.dio.me/), utilizando HTML, CSS e Javascript com lib jQuery contendo o plugin Owl Carousel.
 
 ## Direitos autorais
 
